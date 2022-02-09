@@ -13,8 +13,8 @@ h1
 {
     margin-top: 0;
     font-family: 'WindSong','Cherolina','Geraldine', sans-serif;
-    font-size: 780%;
-    margin-bottom: 0;
+    font-size: 525%;
+    margin-bottom: 2rem;
     color: #003f4d;
 }
 h2
@@ -105,14 +105,14 @@ p
 #cloud1
 {
     position:absolute;
-    right: 12.5rem; /*lessen to shift to right*/
+    right: 11rem; /*lessen to shift to right*/
     top: 2.5rem; /*increases top space if increased*/
     width: 180px; height: 100px;
 }
 #cloud2
 {
     position: absolute;
-    left: 10rem; /*lessen it to shift it to left*/
+    left: 13rem; /*lessen it to shift it to left*/
     top: 9.7rem;
     width: 180px; height: 100px;
 }
